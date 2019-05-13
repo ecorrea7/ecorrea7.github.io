@@ -1,0 +1,11 @@
+@charset "utf-8";
+/* CSS Document */.content {width:100%;}
+body{background-color:floralwhite;font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";}
+ul{list-style-type: none;}
+li {
+    float:left;background-color: #2D9CDB;color: white;padding-top: 10px;padding-bottom: 10px;padding-right: 30px;padding-left: 10px;margin-right: 40px;
+}
+a:link{color:white;}
+.header {clear:left;}
+.rec {float:left;width:25%;}
+.main {float:left;width:75%;}

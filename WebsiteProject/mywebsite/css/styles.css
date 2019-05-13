@@ -1,0 +1,12 @@
+@charset "utf-8";
+/* CSS Document */
+body{background-color:antiquewhite;}
+.menu{
+	width: 1440px; 
+}
+.button1 {font-family:Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+color: white;
+	float:left;
+	width: 14%; 
+	background-color: #2D9CDB;
+}

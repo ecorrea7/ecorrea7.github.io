@@ -1,0 +1,65 @@
+header{
+    margin-bottom: 50px;
+}
+nav {
+            
+            background-color: lightblue;
+            padding
+    }
+    ul {
+        padding: 0px;
+        list-style: none;
+        margin: 0px;
+        text-align: center;
+        
+    }
+    
+    li {
+        display: inline-block;
+        margin:0px 20px;
+        font-size: 30px;
+    }
+
+nav a {
+    text-decoration: none;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 30px;
+    color:white;
+    text-transform: uppercase;
+}
+
+
+.highlight{
+    color:crimson;
+}
+
+
+nav a:hover{
+    text-decoration: underline;
+}
+
+nav a:active{
+    font-size:36px;
+}
+
+.container{
+    
+    width:400px;
+    align-content: center;
+    
+    
+}
+
+.mid{
+   text-align:left;
+    
+}
+
+button{
+    margin: 37px;
+}
+
+p{
+font-family: 'Roboto', sans-serif;
+
+}
